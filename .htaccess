@@ -1,11 +1,11 @@
 # Redirect old file path to new file path
-Redirect http://doilybox.com/floral2.html http://doilybox.com/floral.html
+Redirect /floral2.html /floral.html
 
 # Redirect old file path to new file path
-Redirect http://doilybox.com/floral3.html http://doilybox.com/floral.html
+Redirect /floral3.html /floral.html
 
 # Redirect old file path to new file path
-Redirect http://doilybox.com/floral4.html http://doilybox.com/floral.html
+Redirect /floral4.html /floral.html
 
 # Redirect old file path to new file path
-Redirect http://doilybox.com/floral5.html http://doilybox.com/floral.html
+Redirect /floral5.html /floral.html
