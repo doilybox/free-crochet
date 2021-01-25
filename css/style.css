@@ -206,13 +206,13 @@ body{
 }
 
 .single-grid{
-	width:850px;
+	width:95%;
 	margin:0 auto;
 	padding-bottom:30px;
 }
 .single-grid h2{
-	color:#E8A317;
-	font-size:18px;
+	color:#4682B4;
+	font-size:20px;
 	margin:10px 0;
 }
 .single-grid p{
